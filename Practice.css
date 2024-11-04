@@ -1,0 +1,108 @@
+body {
+    background-color: rgb(20, 19, 19);
+}
+#outerbox {
+    height:490px;
+    width:320px;
+    background-color: rgba(53, 52, 52, 0.797);
+    border-radius: 7px;
+    margin:100px;
+    margin-left: 430px;
+
+}
+#innerbox {
+    height:100px;
+    width:100px;
+    border-radius: 50%;
+    background-image: url("Jessica.png");
+    background-size: cover;
+    margin: 110px;
+    position:relative ;
+    top: 50px;
+}
+h3 {
+    color: white;
+    text-align: center;
+    position: relative;
+    top:-45px;
+}
+#para1 {
+    color:rgba(246, 255, 0, 0.612);
+    position: relative;
+    text-align: center;
+    top:-52px;
+    font-size: x-small;
+}
+#para2 {
+    text-align: center;
+    color:white;
+    position: relative;
+    top:-40px;
+}
+#box2 {
+    font-size: small;
+    border:20px;
+    background-color: rgb(77, 73, 73);
+    width:260px;
+    height:22px;
+    border-radius: 5px;
+    text-align: center;
+    position: relative;
+    top:-40px;
+    margin-left: 28px;
+    padding-top: 4px;
+}
+a {
+    color:white;
+    text-decoration: none;
+    text-align: center;
+}
+#box3 {
+    font-size: small;
+    height:22px;
+    width:260px;
+    background-color:rgb(77, 73, 73) ;
+    text-align: center;
+    position: relative;
+    top:-30px;
+    margin-left: 28px;
+    border-radius: 5px;
+    padding-top: 4px;
+}
+#box4 {
+    font-size: small;
+    height:22px;
+    width:260px;
+    background-color:rgb(77, 73, 73) ;
+    text-align: center;
+    position: relative;
+    top:-20px;
+    margin-left: 28px;
+    border-radius: 5px;
+    padding-top: 4px;
+}
+#box5 {
+    font-size: small;
+    height:22px;
+    width:260px;
+    background-color:rgb(77, 73, 73) ;
+    text-align: center;
+    position: relative;
+    top:-10px;
+    margin-left: 28px;
+    border-radius: 5px;
+    padding-top: 4px;
+}
+#box6 {
+    font-size: small;
+    height:22px;
+    width:260px;
+    background-color:rgb(77, 73, 73) ;
+    text-align: center;
+    position: relative;
+    top:-1;
+    margin-left: 28px;
+    border-radius: 5px;
+    padding-top: 4px;
+}
+
